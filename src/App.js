@@ -1,4 +1,4 @@
-﻿import React, { createContext, useContext, useReducer, useState } from 'react';
+import React, { createContext, useContext, useReducer, useState } from 'react';
 import './App.css';
 
 // Enhanced Product Catalog matching your exact downloaded filenames
